@@ -382,10 +382,7 @@ header h1 {
   }
 
   .main_content {
-    display: flex;
-    justify-content: center;
     width: 100%;
-    align-items: center;
     margin-top: 70px;
     margin-left: 0;
   }
